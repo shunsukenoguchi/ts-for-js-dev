@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shunsukenoguchi/ts-for-js-dev/issues"
   },
-  "homepage": "https://github.com/shunsukenoguchi/ts-for-js-dev#readme"
+  "homepage": "https://github.com/shunsukenoguchi/ts-for-js-dev#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
